@@ -58,7 +58,7 @@ Fique à vontade para abrir um pull request ou relatar um problema na aba de iss
 
 ## 📧 Contato
 
-indisponível 
+Email(indisponível)
 
 ### 🐙 GitHub:
 - **Anellise Cunha** - [GitHub](https://github.com/AnneCunha)  
