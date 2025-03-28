@@ -1,5 +1,3 @@
-Aqui está o arquivo README.md com o conteúdo formatado corretamente:
-
 # 🌊 KonaWai - Loja Virtual de Artigos de Praia 🏖️
 
 Bem-vindo ao repositório da **KonaWai**, uma loja virtual especializada em artigos de praia!  
@@ -60,11 +58,13 @@ Fique à vontade para abrir um pull request ou relatar um problema na aba de iss
 
 ## 📧 Contato
 
+indisponível 
+
 ### 🐙 GitHub:
 - **Anellise Cunha** - [GitHub](https://github.com/AnneCunha)  
 - **Anna Malzone** - [GitHub](https://github.com/AnnaMalzone)  
 - **Claudio Lobo** - [GitHub](https://github.com/lobo-chaib)  
 - **Juliano Awazu** - [GitHub](https://github.com/awazudev)
 
-Caso precise que eu gere o arquivo e te envie para download, me avise!
+
 
